@@ -1,7 +1,7 @@
 var evilscan = require('evilscan');
 
 var options = {
-    target:'139.162.0.0/16',//'45.79.65.140',
+    target:'139.162.0.0/16',
     port:'8545',
     status:'O', // Timeout, Refused, Open, Unreachable
     banner:true
